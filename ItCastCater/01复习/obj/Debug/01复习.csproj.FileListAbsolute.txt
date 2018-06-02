@@ -1,0 +1,13 @@
+D:\C#\ItCastCater\01复习\bin\Debug\01复习.exe.config
+D:\C#\ItCastCater\01复习\bin\Debug\01复习.exe
+D:\C#\ItCastCater\01复习\bin\Debug\01复习.pdb
+D:\C#\ItCastCater\01复习\bin\Debug\System.Data.SQLite.dll
+D:\C#\ItCastCater\01复习\bin\Debug\System.Data.SQLite.xml
+D:\C#\ItCastCater\01复习\obj\Debug\01复习.csprojResolveAssemblyReference.cache
+D:\C#\ItCastCater\01复习\obj\Debug\_01复习.Form1.resources
+D:\C#\ItCastCater\01复习\obj\Debug\_01复习.Properties.Resources.resources
+D:\C#\ItCastCater\01复习\obj\Debug\01复习.csproj.GenerateResource.cache
+D:\C#\ItCastCater\01复习\obj\Debug\01复习.csproj.CoreCompileInputs.cache
+D:\C#\ItCastCater\01复习\obj\Debug\01复习.csproj.CopyComplete
+D:\C#\ItCastCater\01复习\obj\Debug\01复习.exe
+D:\C#\ItCastCater\01复习\obj\Debug\01复习.pdb
